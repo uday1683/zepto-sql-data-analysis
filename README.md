@@ -101,9 +101,8 @@ Estimated revenue was calculated using selling prices and available inventory qu
 zepto-sql-data-analysis/
 │
 ├── Zepto_SQL_data_analysis.sql
-├── zepto_v2.csv
-├── README.md
-└── LICENSE
+├── zepto_v2.csv 
+└── README.md
 ```
 
 ## How to Run
